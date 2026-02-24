@@ -1,2 +1,2 @@
 # trees
-Υλοποίηση και πειραματική μελέτη δένδρων Zip και Zip-Zip
+Implementation and experimental study of Zip and Zip-Zip trees
